@@ -1,5 +1,3 @@
-First extract zip file at desired folder
-copy path of that folder and paste it into jupyter pytesseract part 
-
-run jupyter cells one-by-one and to stop video playing press Q.
-
+As a learner i have tried to achieve best accuracy but still there are some issues which i have tried to resolve but none of the trials worked 
+Please rate it and give me feedback if any mistakes are there i definitely consider it and try to improve myself.
+Thank you. 
